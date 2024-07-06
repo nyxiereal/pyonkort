@@ -1,0 +1,25 @@
+{
+    "spec": 1,
+    "name": "Minecraft",
+    "previewText": "some whitename asked me to do this",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://github.com/nyxiereal/pyonkort/raw/main/content/minecraft.ttf",
+        "ggsans-Bold": "https://github.com/nyxiereal/pyonkort/raw/main/content/minecraft.ttf",
+        "ggsans-BoldItalic": "https://github.com/nyxiereal/pyonkort/raw/main/content/minecraft.ttf",
+        "ggsans-ExtraBold": "https://github.com/nyxiereal/pyonkort/raw/main/content/minecraft.ttf",
+        "ggsans-ExtraBoldItalic": "https://github.com/nyxiereal/pyonkort/raw/main/content/minecraft.ttf",
+        "ggsans-Medium": "https://github.com/nyxiereal/pyonkort/raw/main/content/minecraft.ttf",
+        "ggsans-MediumItalic": "https://github.com/nyxiereal/pyonkort/raw/main/content/minecraft.ttf",
+        "ggsans-Normal": "https://github.com/nyxiereal/pyonkort/raw/main/content/minecraft.ttf",
+        "ggsans-NormalItalic": "https://github.com/nyxiereal/pyonkort/raw/main/content/minecraft.ttf",
+        "ggsans-Semibold": "https://github.com/nyxiereal/pyonkort/raw/main/content/minecraft.ttf",
+        "ggsans-SemiboldItalic": "https://github.com/nyxiereal/pyonkort/raw/main/content/minecraft.ttf",
+        "NotoSans-Bold": "https://github.com/nyxiereal/pyonkort/raw/main/content/minecraft.ttf",
+        "NotoSans-ExtraBold": "https://github.com/nyxiereal/pyonkort/raw/main/content/minecraft.ttf",
+        "NotoSans-Medium": "https://github.com/nyxiereal/pyonkort/raw/main/content/minecraft.ttf",
+        "NotoSans-Normal": "https://github.com/nyxiereal/pyonkort/raw/main/content/minecraft.ttf",
+        "NotoSans-NormalItalic": "https://github.com/nyxiereal/pyonkort/raw/main/content/minecraft.ttf",
+        "NotoSans-Semibold": "https://github.com/nyxiereal/pyonkort/raw/main/content/minecraft.ttf",
+        "SourceCodePro-Semibold": "https://github.com/nyxiereal/pyonkort/raw/main/content/minecraft.ttf1"
+    }
+}
