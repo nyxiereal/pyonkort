@@ -1,0 +1,25 @@
+{
+    "spec": 1,
+    "name": "Whitney",
+    "previewText": "discord fucking sucks",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://github.com/nyxiereal/pyonkort/raw/main/content/whitney.ttf",
+        "ggsans-Bold": "https://github.com/nyxiereal/pyonkort/raw/main/content/whitney.ttf",
+        "ggsans-BoldItalic": "https://github.com/nyxiereal/pyonkort/raw/main/content/whitney.ttf",
+        "ggsans-ExtraBold": "https://github.com/nyxiereal/pyonkort/raw/main/content/whitney.ttf",
+        "ggsans-ExtraBoldItalic": "https://github.com/nyxiereal/pyonkort/raw/main/content/whitney.ttf",
+        "ggsans-Medium": "https://github.com/nyxiereal/pyonkort/raw/main/content/whitney.ttf",
+        "ggsans-MediumItalic": "https://github.com/nyxiereal/pyonkort/raw/main/content/whitney.ttf",
+        "ggsans-Normal": "https://github.com/nyxiereal/pyonkort/raw/main/content/whitney.ttf",
+        "ggsans-NormalItalic": "https://github.com/nyxiereal/pyonkort/raw/main/content/whitney.ttf",
+        "ggsans-Semibold": "https://github.com/nyxiereal/pyonkort/raw/main/content/whitney.ttf",
+        "ggsans-SemiboldItalic": "https://github.com/nyxiereal/pyonkort/raw/main/content/whitney.ttf",
+        "NotoSans-Bold": "https://github.com/nyxiereal/pyonkort/raw/main/content/whitney.ttf",
+        "NotoSans-ExtraBold": "https://github.com/nyxiereal/pyonkort/raw/main/content/whitney.ttf",
+        "NotoSans-Medium": "https://github.com/nyxiereal/pyonkort/raw/main/content/whitney.ttf",
+        "NotoSans-Normal": "https://github.com/nyxiereal/pyonkort/raw/main/content/whitney.ttf",
+        "NotoSans-NormalItalic": "https://github.com/nyxiereal/pyonkort/raw/main/content/whitney.ttf",
+        "NotoSans-Semibold": "https://github.com/nyxiereal/pyonkort/raw/main/content/whitney.ttf",
+        "SourceCodePro-Semibold": "https://github.com/nyxiereal/pyonkort/raw/main/content/whitney.ttf"
+    }
+}
